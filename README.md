@@ -21,8 +21,8 @@ Lalu buka file `ProyekTA.ipynb`.
 
 ## 📂 Struktur Folder
 - `ProyekTA.ipynb` → Notebook utama eksperimen.
-- `data/` → Dataset atau input (jangan upload file besar).
-- `results/` → Hasil eksperimen, grafik, atau laporan.
+- `data/` → Dataset atau input.
+- `results/` → Hasil eksperimen.
 
 ---
 
